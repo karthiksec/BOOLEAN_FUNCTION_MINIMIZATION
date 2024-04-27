@@ -38,7 +38,7 @@ Program to implement the given logic function and to verify its operations in qu
 ![Screenshot 2024-04-27 100814](https://github.com/karthiksec/BOOLEAN_FUNCTION_MINIMIZATION/assets/147473368/20799cde-44d8-4c86-9a5d-d0330e9f43d8)
 
 ## Logic symbol & Truthtable:
-![image](https://github.com/23004205/BOOLEAN_FUNCTION_MINIMIZATION/assets/138971114/a9ccb75e-db7b-490e-8b69-10f820e6bff4)
+![312446798-9439745f-7933-4186-b5ae-efcce4c473a1](https://github.com/karthiksec/BOOLEAN_FUNCTION_MINIMIZATION/assets/147473368/dddb4b66-d0d0-4e56-b7e3-9f7f42e05d81)
 
 ![image](https://github.com/23004205/BOOLEAN_FUNCTION_MINIMIZATION/assets/138971114/6835b6c0-9fe5-4f55-8288-53b7d0c42104)
 
@@ -47,7 +47,8 @@ Program to implement the given logic function and to verify its operations in qu
 
 **RTL realization**
 
-![image](https://github.com/23004205/BOOLEAN_FUNCTION_MINIMIZATION/assets/138971114/5ffd7097-c99c-4ef3-a82d-0108e72a8b9e)
+![312445975-ccd61b61-3b31-4260-8be8-3d14def18992](https://github.com/karthiksec/BOOLEAN_FUNCTION_MINIMIZATION/assets/147473368/8a9756b3-9fde-44d4-872f-d75d1a7c9238)
+
 
 
 **Output:**
