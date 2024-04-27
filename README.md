@@ -37,22 +37,17 @@ Program to implement the given logic function and to verify its operations in qu
 
 ![Screenshot 2024-04-27 100814](https://github.com/karthiksec/BOOLEAN_FUNCTION_MINIMIZATION/assets/147473368/20799cde-44d8-4c86-9a5d-d0330e9f43d8)
 
-## Logic symbol & Truthtable:
-![312446798-9439745f-7933-4186-b5ae-efcce4c473a1](https://github.com/karthiksec/BOOLEAN_FUNCTION_MINIMIZATION/assets/147473368/dddb4b66-d0d0-4e56-b7e3-9f7f42e05d81)
-
-![image](https://github.com/23004205/BOOLEAN_FUNCTION_MINIMIZATION/assets/138971114/6835b6c0-9fe5-4f55-8288-53b7d0c42104)
-
-
-
-
 **RTL realization**
 
-![312445975-ccd61b61-3b31-4260-8be8-3d14def18992](https://github.com/karthiksec/BOOLEAN_FUNCTION_MINIMIZATION/assets/147473368/8a9756b3-9fde-44d4-872f-d75d1a7c9238)
+![312714896-31abede3-4039-4e7f-af3d-3812d4056efc](https://github.com/karthiksec/BOOLEAN_FUNCTION_MINIMIZATION/assets/147473368/6c7a6c3b-dd46-4c27-b97a-f5b4e57a8f92)
+
+## Truthtable:
+![312714942-0dd80e62-e167-40fc-862e-ff155741ea45](https://github.com/karthiksec/BOOLEAN_FUNCTION_MINIMIZATION/assets/147473368/b264bcee-763e-4cb5-825e-969ecd83dc53)
+
+## Timing Diagram:
+![319427514-042b4487-4220-4e63-a855-f1475debf723](https://github.com/karthiksec/BOOLEAN_FUNCTION_MINIMIZATION/assets/147473368/3337f495-029f-4646-8837-e677cac785da)
 
 
-
-**Output:**
-![image](https://github.com/23004205/BOOLEAN_FUNCTION_MINIMIZATION/assets/138971114/3294f442-723b-4550-ab9c-49ed60325deb)
 
 **Result:**
 
